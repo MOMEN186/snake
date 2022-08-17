@@ -1,5 +1,5 @@
 # snake
-
+g
 
 
 ![image](https://user-images.githubusercontent.com/57963805/184611422-e070a82f-2e93-4af4-92c5-61392d698502.png)
